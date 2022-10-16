@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/olfabre/Desktop/UNIVERSITE/UE Algorithmique avancée et programmation/Notation polonaise/Notation polonaise",
+      "program": "/Users/olfabre/Desktop/UNIVERSITE/UE Algorithmique avancée et programmation/Notation polonaise/Notation polonaise/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb"
+    }
+  ]
+}
